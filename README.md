@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![makhammadsoliyev's github stats](https://github-readme-stats.vercel.app/api?username=makhammadsoliyev&theme=holi)](https://github-readme-stats.vercel.app/api?username=makhammadsoliyev&theme=holi) [![makhammadsoliyev's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=makhammadsoliyev&theme=holi)]((https://github-readme-streak-stats.herokuapp.com/?user=makhammadsoliyev&theme=holi))
 <!--
 **makhammadsoliyev/makhammadsoliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
